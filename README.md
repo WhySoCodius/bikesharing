@@ -18,7 +18,9 @@ We used the following NYC citibike Data [201908-citibike-tripdata.csv.zip](https
 
 Below is the final snapshot of the [Dashboard](https://public.tableau.com/app/profile/avinash.mehra/viz/CitiBike_Challenge_16601345010310/CitibikeNYCStory?publish=yes):
 
-![Dashboard](Resources/Dashboard.png)
+and snapshot of [Module_Dashboard](https://public.tableau.com/app/profile/avinash.mehra/viz/CitiBike_Module_16601351817050/NYCCitiBike?publish=yes)
+
+![Module_Dashboard](Resources/Dashboard.png)
 
 
 ### Average trip duration by age:
